@@ -1,0 +1,42 @@
+body {
+    background-color: #876445;
+}
+
+.container {
+    max-width: 950px;
+}
+
+.container-carduri {
+    max-width: 900px;
+    display: flex;
+}
+.culoare-text {
+    color: black;
+}
+
+hr.solid {
+    border-top: 5px solid rgb(0, 0, 0);
+    margin: 20px;
+  }
+
+.container-text {
+    width:100%;
+}
+
+.row {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.col-sm-6 {
+    width: 50%;
+}
+
+.buton {
+    text-align: center;
+    margin: 60px;
+}
+
+.col-33 {
+    width: 33,3%;
+}
