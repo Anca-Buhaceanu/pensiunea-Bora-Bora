@@ -37,6 +37,10 @@ hr.solid {
     margin: 60px;
 }
 
-.col-33 {
-    width: 33,3%;
+.text {
+    text-align: center;
+}
+
+.background-lista {
+    background-color: #876445;
 }
